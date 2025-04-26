@@ -67,9 +67,9 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEVBRjJFMzE3MjEwMUZEMTAKUldRUS9RRWhGK1B5NmdkemhKcUFrVjZBQXlzdExpakdWVEJDeU9XckVsbzV2cFIycVJOempWa2UK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDc0NDIwNEVFMENCRTY0NkMKUldSc1pMNE03Z1JDZEpkWDRUa1hHYUxlUk9Qd21ZaVYvcVdJWTVaaFg5VmdibkxQcGU3dTV4aCsK",
       "endpoints": [
-        "https://gh-proxy.com/github.com/ayangweb/BongoCat/releases/latest/download/latest.json"
+        "https://gh-proxy.com/github.com/ayangweb/Ca11back/releases/latest/download/latest.json"
       ]
     }
   }
